@@ -1,12 +1,12 @@
-# spot-detection-thales-competition
+# AI Challenge 4 Health
 
 ### For more about this repository, see the competition page:
-### TODO URL of the competition
+### [AIChallenge4Health](https://competitions.codalab.org/competitions/21639).
 
 This repository contains the starting kit of the machine learning competition
-"spot detection organized by thales AVS. 
+AIChallenge4Health 2019 organized by Thales AVS France, in collaboration with Kaizen Solutions and Data Institute of Grenoble. 
 
-The starting kit is a jupyter notebook. It's allow an easy an clean introduction
+The starting kit is a jupyter notebook. It allows an easy an clean introduction
 to the challenge.
 
 ## Requirements 
@@ -14,10 +14,10 @@ to the challenge.
 ### Competition dataset
 
 In order to run the starting kit you need to download the competition dataset
-from the competition page: TODO add URL. Do not forget to sign in `CodaLab` and
-subscribe to the competition to be allowed to download the competition dataset.
+from the [competition page](https://competitions.codalab.org/competitions/21639). Do not forget to sign in `CodaLab` and
+register to the competition to be allowed to download the competition dataset.
 
-You need to put the competition data in a directory named `Data`. Then you
+Competition dataset must be stored in a directory named `Data`. Then you
 should have: 
 
 ```
@@ -32,8 +32,8 @@ should have:
 
 ### Python 
 
-For this starting kit you need `python 3.6`. If you do not have python on your
-computer we advise to install it using
+For this starting kit you need `python 3.6`. If you do not have python installed on your
+computer, we advise you to install it using
 [annaconda](https://docs.anaconda.com/anaconda/install/).
 
 Then you should install the following python packages:
@@ -48,9 +48,9 @@ setup.
 
 ### Other tools
 
-In addition to this python environment we advise to install the following useful
+In addition to this python environment, it is advised to install the following useful
 tool:
 
-- [imageJ](https://imagej.nih.gov/ij/index.html): this allow quick visualization
-  of tiff stack.
+- [imageJ](https://imagej.nih.gov/ij/index.html): this tool allows quick visualization
+  of tiff imaje stack.
 
