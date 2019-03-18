@@ -1,7 +1,6 @@
 # AI Challenge 4 Health
 
-### For more about this repository, see the competition page:
-### [AIChallenge4Health](https://competitions.codalab.org/competitions/21639).
+### For more about this repository, see the competition page [AIChallenge4Health](https://competitions.codalab.org/competitions/21639)
 
 This repository contains the starting kit of the machine learning competition
 AIChallenge4Health 2019 organized by Thales AVS France, in collaboration with Kaizen Solutions and Data Institute of Grenoble. 
@@ -14,7 +13,7 @@ to the challenge.
 ### Competition dataset
 
 In order to run the starting kit you need to download the competition dataset
-from the [competition page](https://competitions.codalab.org/competitions/21639). Do not forget to sign in `CodaLab` and
+from the [competition page](https://competitions.codalab.org/competitions/21639#participate). Do not forget to sign in `CodaLab` and
 register to the competition to be allowed to download the competition dataset.
 
 Competition dataset must be stored in a directory named `Data`. Then you
