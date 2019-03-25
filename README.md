@@ -51,5 +51,5 @@ In addition to this python environment, it is advised to install the following u
 tool:
 
 - [imageJ](https://imagej.nih.gov/ij/index.html): this tool allows quick visualization
-  of tiff imaje stack.
+  of tiff image stack.
 
