@@ -99,3 +99,4 @@ s.close()
 # dump the results
 all_res_df = pd.DataFrame(dfs)
 all_res_df.to_csv("all_res_df.csv", index = False)
+# end of script
